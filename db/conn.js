@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const CONNECTION_STRING = "mongodb+srv://chirag:chirag@chiragcluster.p8viumh.mongodb.net/rest-api-backend?retryWrites=true&w=majority"
+const CONNECTION_STRING = "";
 
 const connectDb = async () => {
     try {
